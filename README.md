@@ -1,4 +1,4 @@
-### 안녕하세요 정인호입니다
+### 안녕하세요? 정인호입니다
 
 ✉️ inhonanananna@gmail.com
 
