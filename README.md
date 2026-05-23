@@ -16,7 +16,7 @@
   - Machine Learning (Vision, Image/3D Generative)
   - 3D Vision
   - Graphics
-  - Game Engine
+  - Gaussian Splatting
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhozzzz)](https://solved.ac/inhozzzz/)
 
